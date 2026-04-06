@@ -1,8 +1,8 @@
-Objective
+Objective:
 
 Leverage historical payment transaction data to forecast sales for the upcoming quarter and generate actionable insights to help achieve or exceed projected sales targets, including demand trends and inventory alignment.
 
-Questions
+Questions:
 1.	Sales Trends & Forecasting
    
         •	What are the month-over-month sales trends for recent periods?
@@ -21,4 +21,12 @@ Questions
         
         •	Is the available inventory sufficient to meet the forecasted demand for the next quarter?
 
-
+Related files:
+1. Database file(sqlite)
+2. Original data and scripts
+3. Analysis data and SQL query
+4. Visualization/Forecast (excel)
+   
+   
+   
+   
