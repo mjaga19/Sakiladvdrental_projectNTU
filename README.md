@@ -9,7 +9,10 @@ Questions:
         
         •	Based on historical data, what is the projected sales forecast for the next quarter?
 
-2.	Top-Performing Movie Genres
+   <img width="1353" height="633" alt="image" src="https://github.com/user-attachments/assets/781e54e1-8dc0-452d-8fe0-5c27fb31d686" />
+
+
+3.	Top-Performing Movie Genres
 
         •	Which are the top 5 movie genres based on sales performance in recent months?
         
